@@ -1,11 +1,11 @@
 # Some-simulated-datasets-for-lstm
-满足实验的模拟lstm数据
-由AI生成的硬盘数据路径是这个
-SSD/generated/hard_drive_data_20260405_130457.csv
-hard_drive_analisis_fixed.png是根据csv来生成的一系列图表，由于乱码问题，现在此说明图表的含义
-硬盘类型分布（饼图）
-看有多少是机械硬盘（HDD）、多少是固态硬盘（SSD），占比多少。
-硬盘状态分布（柱状图）
+满足实验的模拟lstm数据\n
+由AI生成的硬盘数据路径是这个\n
+SSD/generated/hard_drive_data_20260405_130457.csv\n
+hard_drive_analisis_fixed.png是根据csv来生成的一系列图表，由于乱码问题，现在此说明图表的含义\n
+硬盘类型分布（饼图）\n
+看有多少是机械硬盘（HDD）、多少是固态硬盘（SSD），占比多少。\n
+硬盘状态分布（柱状图）\n
 看正常工作的硬盘有多少、出问题的有多少。
 硬盘故障预测分布（柱状图）
 看系统判断 “正常” 和 “即将故障” 的硬盘各有多少条记录。
